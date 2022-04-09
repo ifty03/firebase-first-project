@@ -1,0 +1,18 @@
+.link{
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    
+}
+.active-link{
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+    color: red; 
+}
+.navbar{
+    margin-top: 20px;
+}

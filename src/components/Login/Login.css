@@ -1,0 +1,36 @@
+.btn{
+    border: none;
+    padding: 9px 17px;
+    background-color: purple;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.email{
+    border: 1px solid purple;
+    width: 250px;
+    height: 30px;
+    font-size: 17px;
+    padding: 1px 9px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.password{
+    border: 1px solid purple;
+    width: 250px;
+    height: 30px;
+    font-size: 17px;
+    padding: 1px 9px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.form{
+    background-color: rgb(244, 244, 244);
+    width: 30%;
+    margin: auto;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 45px 5px rgb(200, 200, 200);
+}
